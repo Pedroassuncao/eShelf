@@ -1,0 +1,21 @@
+{
+    "configurations": {
+        "host": "eshelf_mysql",
+        "port": "3306",
+        "user": "eshelf",
+        "passwd": "change_this_pretty_bad_password",
+        "database": "eshelf"
+    },
+    "mappings": {
+        "table": "products",
+        "columns": {
+            "id": "id",
+            "price": "price",
+            "currency": "currency",
+            "item": "item",
+            "brand": "brand",
+            "model": "model",
+            "description": "description"
+        }
+    }
+}

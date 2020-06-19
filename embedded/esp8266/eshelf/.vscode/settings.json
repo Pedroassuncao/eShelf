@@ -1,0 +1,4 @@
+{
+    "arduino.defaultBaudRate": 115200,
+    "arduino.logLevel": "info"
+}

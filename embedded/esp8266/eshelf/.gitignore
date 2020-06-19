@@ -1,0 +1,10 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/arduino.json
+.history
+bin/
+certificates/key.h
+certificates/x509.h

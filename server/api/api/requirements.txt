@@ -1,0 +1,4 @@
+Flask>=1.0.2
+flask-restful>=0.2.12
+mysql-connector>=2.2.9
+mysql-connector-python>=8.0.15

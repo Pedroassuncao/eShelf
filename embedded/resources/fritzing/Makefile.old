@@ -1,0 +1,13 @@
+get:
+	@echo "Components will be placed inside the folder 'components'";\
+	echo "Downloading components...";\
+	echo;\
+	wget -i components_url_list -P components --quiet --show-progress;\
+	echo;\
+	echo "Done!";\
+
+clean:
+	@echo "Deleting the folder 'components'";\
+	rm -rf ./components;\
+	echo;\
+	echo "Done!";\
